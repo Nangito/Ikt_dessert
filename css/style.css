@@ -138,3 +138,20 @@ footer:hover {
     transition: all 1.2s;
     background-color: #5f5f5f;
 }
+
+.fooldal_desszertek a {
+    text-decoration: none;
+    color: #964206;
+    margin: auto;
+    font-size: larger;
+}
+
+.fooldal_desszertek a:hover {
+    text-decoration: none;
+    color: #471e00;
+    margin: auto;
+}
+
+.fooldal_desszertek li {
+    list-style-type: none;
+}
