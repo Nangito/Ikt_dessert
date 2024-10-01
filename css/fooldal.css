@@ -22,7 +22,7 @@ a>p:link{
 }
 a>p:hover{
     text-decoration: none;
-    margin-inline: 0;
+    padding-inline: 0;
     font-size: 1.2em;
     color: #964206;
 }
