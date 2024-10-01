@@ -22,3 +22,6 @@ a:link{
 p{
     margin-inline: 0;
 }
+p:hover{
+    text-size:1.2em
+}
