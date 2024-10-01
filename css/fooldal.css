@@ -7,11 +7,11 @@ body {
 #h1 {
     color: #964206;
     margin: auto;
-    font-size: 75px;
-    font-stretch: 30px;
+    font-size: 2,5em;
+    font-stretch: 3em;
     font-variant: small-caps;
     background-color: rgba(255, 228, 196, 0.575);
-    width: 35%;
+    width: 5em;
     border-radius: 20px;
     border: 1px black solid;
     filter: drop-shadow(2px 2px 2px black);
