@@ -1,0 +1,28 @@
+.fooldal_desszertek {
+    text-align: center;
+}
+body {
+    background-color: rgb(182, 182, 182);
+}
+#h1 {
+    color: #964206;
+    margin: auto;
+    font-size: 75px;
+    font-stretch: 30px;
+    font-variant: small-caps;
+    background-color: rgba(255, 228, 196, 0.575);
+    width: 35%;
+    border-radius: 20px;
+    border: 1px black solid;
+    filter: drop-shadow(2px 2px 2px black);
+}
+a>p:link{
+    text-decoration: none;
+    padding-inline: 0;
+}
+a>p:hover{
+    text-decoration: none;
+    padding-inline: 0;
+    font-size: 1.2em;
+    color: #964206;
+}
