@@ -156,7 +156,7 @@ footer:hover {
     list-style-type: none;
 }
 
-button {
+.back {
     transition: all 1s;
     display: block;
     width: 150px;
@@ -169,7 +169,7 @@ button {
     text-decoration: none;
 }
 
-button:hover {
+.back:hover {
     border-radius: 35px;
     transition: all 1s;
     color: black;
