@@ -155,20 +155,3 @@ footer:hover {
 .fooldal_desszertek li {
     list-style-type: none;
 }
-
-.fooldal_eloetelek a {
-    text-decoration: none;
-    color: #964206;
-    margin: auto;
-    font-size: larger;
-}
-
-.fooldal_eloetelek a:hover {
-    text-decoration: none;
-    color: #471e00;
-    margin: auto;
-}
-
-.fooldal_eloetelek li {
-    list-style-type: none;
-}
