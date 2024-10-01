@@ -34,4 +34,13 @@ p {
     margin-top: 2em;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
+}
+
+#tarolo_kontener_main {
+    height: 16rem;
+}
+
+#sub_kontener {
+    height: 8em;
 }
