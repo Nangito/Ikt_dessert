@@ -16,3 +16,6 @@ body {
     border: 1px black solid;
     filter: drop-shadow(2px 2px 2px black);
 }
+a:link{
+    text_decoration: none;
+}
