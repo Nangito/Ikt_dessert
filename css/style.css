@@ -155,3 +155,24 @@ footer:hover {
 .fooldal_desszertek li {
     list-style-type: none;
 }
+
+button {
+    transition: all 1s;
+    display: block;
+    width: 150px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 27px;
+    text-decoration: none;
+}
+
+button:hover {
+    border-radius: 35px;
+    transition: all 1s;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+}
