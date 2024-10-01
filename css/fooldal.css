@@ -22,7 +22,7 @@ a>p:link{
 }
 a>p:hover{
     text-decoration: none;
-    font-size: 1.2em;
+    font-size: 1.1em;
     color: #964206;
     display: block;
     margin-left: auto;
@@ -43,4 +43,8 @@ p {
 
 #sub_kontener {
     height: 8em;
+}
+
+#tarolo_kontener_sub {
+    height: 6rem;
 }
