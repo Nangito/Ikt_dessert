@@ -164,25 +164,21 @@ footer:hover {
     margin: auto;
     text-align: center;
     background-color: black;
-    color: white;
     border-radius: 27px;
-    text-decoration: none;
 }
 
 .back:hover {
     border-radius: 35px;
     transition: all 1s;
-    color: black;
-    background-color: white;
+    background-color: rgb(59, 59, 59);
 }
 
 footer a {
-    transition: all 1s;
     color: rgb(255, 255, 255);
     text-decoration: none;
 }
+
 footer a:hover {
-    transition: all 1s;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 214);
     text-decoration: none;
 }
