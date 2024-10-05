@@ -1,5 +1,5 @@
 .fooldal_desszertek {
-    text-align: justify;
+    text-align: center;
 }
 body {
     background-color: rgb(182, 182, 182);
@@ -7,12 +7,44 @@ body {
 #h1 {
     color: #964206;
     margin: auto;
-    font-size: 75px;
-    font-stretch: 30px;
+    font-size: 2,5em;
+    font-stretch: 3em;
     font-variant: small-caps;
     background-color: rgba(255, 228, 196, 0.575);
-    width: 35%;
+    width: 5em;
     border-radius: 20px;
     border: 1px black solid;
     filter: drop-shadow(2px 2px 2px black);
+}
+a>p:link{
+    text-decoration: none;
+    padding-inline: 0;
+}
+a>p:hover{
+    text-decoration: none;
+    font-size: 1.1em;
+    color: #964206;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    display: block;
+    font-size: 1em;
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#tarolo_kontener_main {
+    height: 16rem;
+}
+
+#sub_kontener {
+    height: 8em;
+}
+
+#tarolo_kontener_sub {
+    height: 6rem;
 }
