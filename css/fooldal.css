@@ -24,27 +24,46 @@ a>p:hover{
     text-decoration: none;
     font-size: 1.1em;
     color: #964206;
-    display: block;
     margin-left: auto;
     margin-right: auto;
+    filter: invert(0.15);
+}
+a>p:active{
+    text-decoration: none;
+    font-size: 1.1em;
+    color: #964206;
+    margin-left: auto;
+    margin-right: auto;
+    filter: saturate(2);
 }
 p {
     display: block;
     font-size: 1em;
-    margin-top: 2em;
+    margin-top: 5px;
     margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+    margin-right: 20px;
+    text-align: justify;
 }
 
 #tarolo_kontener_main {
-    height: 16rem;
+    height: 20rem;
 }
 
 #sub_kontener {
-    height: 8em;
+    height: 10em;
 }
 
 #tarolo_kontener_sub {
-    height: 6rem;
+    height: 8rem;
+}
+
+img {
+    width: 53%;
+    height: auto;
+    border: 2px black double;
+    filter: drop-shadow(2px 2px 8px gray);
+}
+
+footer > p {
+    text-align: center;
 }
