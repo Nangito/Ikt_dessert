@@ -27,6 +27,9 @@ a>p:hover{
     margin-left: auto;
     margin-right: auto;
     filter: invert(0.15);
+    img {
+        border: 3px rgb(204, 204, 204) solid;
+    }
 }
 a>p:active{
     text-decoration: none;
