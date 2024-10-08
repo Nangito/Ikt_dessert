@@ -84,4 +84,9 @@ hr {
     border-top: 5px solid gray;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
+    filter: drop-shadow(2px 2px 5px rgb(255, 236, 218));
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
